@@ -58,7 +58,7 @@ export default {
   align-items: center;
 }
 .container__link {
-  margin-top: 10pt;
+  margin: 10pt;
   font-size: 1.4em;
   font-weight: 900;
   padding: 7pt 10pt;
