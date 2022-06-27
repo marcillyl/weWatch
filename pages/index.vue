@@ -66,10 +66,7 @@
               class="movie__image"
             />
             <p class="movie__review">{{ movie.vote_average }}</p>
-            <p class="movie__overview">
-              <!-- {{ movie.overview.slice(0, 100) }} -->
-              <!-- <span v-if="movie.overview.length > 100">...</span> -->
-            </p>
+            <p class="movie__overview"></p>
           </div>
           <div>
             <p class="movie__title">
